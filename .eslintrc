@@ -1,6 +1,6 @@
 {
   "extends": "eslint:recommended",
-  "parser": "babel-loader",
+  "parser": "babel-eslint",
   "rules": {
     "no-console": "off"
   },
