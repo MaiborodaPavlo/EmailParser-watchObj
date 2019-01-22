@@ -16,7 +16,7 @@ console.log(parser.domain); //ntschool.ru
 console.log(parser.isCorrect); //true
 
 parser.email = 'some@nz';
-console.log(parser.name); //some
+console.log(parser.name); //null
 console.log(parser.domain); //null
 console.log(parser.isCorrect); //false
 
